@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Unidash_Go.iml" filepath="$PROJECT_DIR$/Unidash_Go.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Unidash_Go.iml" filepath="$PROJECT_DIR$/.idea/Unidash_Go.iml" />
     </modules>
   </component>
 </project>
